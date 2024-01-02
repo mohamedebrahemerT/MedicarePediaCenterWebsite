@@ -15,7 +15,7 @@ class ServicesController extends Controller
    $products=product::get();
 
               $departments=DB::table('departments')
-            ->whereNull('parent')->inrandomOrder()->take(6)->get();
+            ->whereNull('parent')->get();
 
   return view('forentend.Services.Services',compact('departments','products'));
 

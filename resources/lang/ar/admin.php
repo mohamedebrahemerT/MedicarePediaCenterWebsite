@@ -1073,7 +1073,7 @@ return [
 
     'Productbalance' => 'عدد منتجاتي  في   د.خالد الفقيه',
 
-    'moneybalance' => ' رصيد منتجاتي  في      د.ندى الاطرش',
+    'moneybalance' => ' رصيد منتجاتي  في      مركز ميدي كير لرعاية الطفل',
 
     'pound' => 'جنية ',
 
@@ -1081,7 +1081,7 @@ return [
 
     'Productbalancesalled' => 'عدد المنتجات التي تم بيعها ',
 
-    'BounceRate' => 'نسبة     د.ندى الاطرشعلي جميع المبيعات ',
+    'BounceRate' => 'نسبة     مركز ميدي كير لرعاية الطفلعلي جميع المبيعات ',
 
     'valueRate' => 'قيمة ربح    د.خالد الفقيه',
 
@@ -1658,7 +1658,7 @@ return [
 
     'weight2' => 'وحدة الوزن ',
 
-    'whoPayTax' => 'هل  تريد انت دفع الضريبة ام     د.ندى الاطرش؟',
+    'whoPayTax' => 'هل  تريد انت دفع الضريبة ام     مركز ميدي كير لرعاية الطفل؟',
 
     'VendoPayTax' => 'انا ادفع الضريبة ',
 
@@ -1692,7 +1692,7 @@ return [
 
     'AboutUs' => 'من نحن ',
 
-    'Services' => '  الحالات التي اعالجها ',
+    'Services' => '  البرامج  ',
 
     'ShoppingGuide' => 'دليل التسوق',
 
@@ -1815,7 +1815,7 @@ return [
 
     'Stayconnected' => 'ابق على اتصال',
 
-    'alymarketAllrightsReserved' => '    د.ندى الاطرشكل الحقوق محفوظة',
+    'alymarketAllrightsReserved' => '    مركز ميدي كير لرعاية الطفلكل الحقوق محفوظة',
 
     'shiptoallegypt' => 'الشحن في مصر ',
 
@@ -3040,7 +3040,7 @@ return [
 
     'Mycart' => 'العربة  ',
 
-    'about' => 'عن د.ندى الاطرش',
+    'about' => 'عن المركز ',
 
     'Affiliates' => 'نظام العمولة',
 
@@ -3117,7 +3117,7 @@ return [
     'contact' => 'اتصل بنا ',
     'Our Partners' => 'شركاؤنا',
     'Objectives11' => 'عملائنا',
-    'About' => 'د.ندى الاطرش',
+    'About' => 'عن المركز ',
     'Welcometopilotpen' => 'مرحبا بك  في  د.خالد الفقيه',
     'departmentsproduct' => '   الحالات التي اعالجها ',
 
@@ -3170,12 +3170,12 @@ return [
    'page'=>'الصفحة ',
    'relatedproduct'=>'منتجات ذات  صله ',
    'product_info'=>'معلومات المنتج ',
-   'Consultant plastic and reconstructive surgery'=>'اخصائية نفسة أكلينيكية معتمدة من هيئة التخصصات الطبية',
+   'Consultant plastic and reconstructive surgery'=>'تشخيص وعلاج الاضطرابات النمائية والمشاكل السلوكية وصعوبات التعلم ',
    'wellcome'=>'مرحبا  ',
-   'drkhaledsite'=>'  د.ندى الاطرش',
+   'drkhaledsite'=>'  مركز ميدي كير لرعاية الطفل',
    'keep in touch'=>'ا بقى على تواصل  ',
    'know more'=>' أعرف أكثر  ',
-   'photos'=>'  المركزالإعلامي',
+   'photos'=>' المركزالإعلامي    والفريق  الطبي  ',
    'latest news'=>' مقالات',
     'factsandnumbers'=>'حقائق وأرقام',
     'Surgery'=>'عملية جراحية ',

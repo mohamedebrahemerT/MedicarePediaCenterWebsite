@@ -37,7 +37,7 @@
 
 <div class="col-md-4">
 <div class="single-portfolio card-s" data-aos="fade-up" data-aos-duration="3000">
-<a href="{{url('/')}}/{{substr($Maincategoy->photo, -29) }}" class="expand-img"><img src="{{url('/')}}/{{ $Maincategoy->photo }}" style="height: 250px;" alt="gallery"></a>
+<a href="{{url('/')}}/{{ $Maincategoy->photo }}" class="expand-img"><img src="{{url('/')}}/{{ $Maincategoy->photo }}" style="height: 250px;" alt="gallery"></a>
 </div>
 </div>
            @endforeach
