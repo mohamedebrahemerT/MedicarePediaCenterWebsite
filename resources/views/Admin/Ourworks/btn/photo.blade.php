@@ -1,0 +1,1 @@
+<img src="{{url('/')}}/{{$Maincategoy->photo}}" alt="gallery">

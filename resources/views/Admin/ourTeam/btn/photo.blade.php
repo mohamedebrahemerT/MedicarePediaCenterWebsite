@@ -1,0 +1,1 @@
+<img src="{{url('/')}}/{{$photo}}" alt="gallery"  style="width: 200px;height: 200px;">
