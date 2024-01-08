@@ -211,4 +211,45 @@ class DepartmentsController extends Controller {
                  
                      
                  }
+
+                  public function arrange()
+
+    {
+
+
+          $posts = Department::orderBy('order','ASC')->get();
+
+         return view ('Admin.departments.arrange',compact('posts'));
+
+    }
+
+       public function updatepost(Request $request)
+
+    {
+
+        $posts = Department::all();
+
+
+        foreach ($posts as $post) {
+
+            foreach ($request->order as $order) 
+            {
+
+
+
+                if ($order['id'] == $post->id) {
+
+                    $post->update(['order' => $order['position']]);
+
+                }
+
+            }
+
+        }
+
+        
+
+        return response('Update Successfully.', 200);
+
+    }
 }

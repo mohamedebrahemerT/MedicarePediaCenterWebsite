@@ -346,6 +346,7 @@
 
                         <li class=""><a href="{{ url('admin/departments') }}"><i
                                         class="fa fa-list"></i> {{ trans('admin.departments') }}</a></li>
+ <li class=""><a href="{{ url('admin/arrange') }}"><i class="fa fa-pen"></i> الترتيب </a></li>
                        
 
 

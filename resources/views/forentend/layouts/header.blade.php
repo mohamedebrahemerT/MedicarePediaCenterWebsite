@@ -80,10 +80,14 @@
 <link rel="apple-touch-icon" sizes="152x152" href="{{url('/')}}/forentend/assets/iconified/apple-touch-icon-152x152.png" />
 <link rel="apple-touch-icon" sizes="180x180" href="{{url('/')}}/forentend/assets/iconified/apple-touch-icon-180x180.png" />
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@500;700&display=swap" rel="stylesheet">
+
 <style type="text/css">
         
     *{
-        font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif !important;
+        font-family: 'Cairo', sans-serif;
 
 
     }   

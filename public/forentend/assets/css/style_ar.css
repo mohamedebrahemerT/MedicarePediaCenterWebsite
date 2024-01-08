@@ -106,7 +106,7 @@ body {
      background: #101010;
      font-weight: normal;
      font-size: 16px;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      letter-spacing: 1.5px;
      color: #ffffff;
      line-height: 30px;
@@ -131,24 +131,24 @@ button,input,textarea {
 /* Table Of Contents=========================- Default Typography- Custom Typography=========================*/
 /* --------------------------- Default Typography--------------------------*/
 body {
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      overflow-x: hidden;
 }
 h1,h2,h3,h4,h5,h6 {
      margin: 0;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      font-weight: 600;
      color: #ffffff;
      letter-spacing: 0px;
 }
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
      font-weight: inherit;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      letter-spacing: 0;
 }
 h1 {
      font-size: 100px;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      font-weight: 700;
      line-height: 105px;
      margin-bottom: 0px;
@@ -179,14 +179,14 @@ h6 {
      line-height: 22px;
 }
 p {
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
-     font-size: 16px;
-     font-weight: 400;
-     letter-spacing: 0;
-     color: #afb2bf;
-     line-height: 28px;
-     margin: 0;
-     text-align: right;
+         font-family: 'Cairo', sans-serif;
+font-size: 20px;
+font-weight: 700;
+letter-spacing: 0;
+color: #000;
+line-height: 28px;
+margin: 0;
+text-align: right;
 }
 p img {
      margin: 0;
@@ -205,7 +205,7 @@ small {
 /* links */
 a,a:visited {
      text-decoration: none;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      font-weight: 500;
      font-size: 15px;
      letter-spacing: 0;
@@ -316,7 +316,7 @@ input:focus {
 .nav-fill .nav-item {
      text-align: left !important;
      font-size: 24px;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      font-weight: 500;
      transition: .5s ease;
 }
@@ -515,7 +515,7 @@ header.header-area.nav-fixed2 {
 }
  .hero-area .hero-content span.sign {
      font-size: 66px;
-     font-family: "halimunregular";
+      font-family: 'Cairo', sans-serif;
      line-height: 75px;
      margin-top: 100px;
      display: block;
@@ -730,7 +730,7 @@ header.header-area.nav-fixed2 {
      color: #000;
      font-size: 22px;
      font-weight: 500;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
 }
  .about-3 .about-content .about-single-content h2 {
      color: #000;
@@ -997,7 +997,7 @@ header.header-area.nav-fixed2 {
 }
  .blog .single-blog .sb-text span {
      font-size: 16px;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      line-height: 28px;
      color: #9e9fa2;
      letter-spacing: 0;
@@ -1079,7 +1079,7 @@ header.header-area.nav-fixed2 {
      font-size: 15px;
      line-height: 25px;
      color: #c6c9d8;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      background-color: #fff0;
      background-clip: padding-box;
      border: 1px solid #464547;
@@ -1091,7 +1091,7 @@ header.header-area.nav-fixed2 {
      line-height: 25px;
      color: #c6c9d8;
      background-color: #fff0;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      background-clip: padding-box;
      border: 1px solid #464547;
      border-radius: 0;
@@ -1179,7 +1179,7 @@ header.header-area.nav-fixed2 {
      padding: 20px 10px;
      font-size: 14px;
      color: #d7d7d7;
-     font-family: "Gotham Narrow";
+      font-family: 'Cairo', sans-serif;
      border-radius: 0;
 }
  .side-bar .searchbox form .input-group-append {
@@ -1266,7 +1266,7 @@ header.header-area.nav-fixed2 {
      text-transform: capitalize;
      font-size: 14px;
      letter-spacing: 0;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      color: #c1c1c1;
 }
  .side-bar .tag {
@@ -1441,7 +1441,7 @@ header.header-area.nav-fixed2 {
      font-weight: 700;
      padding: 0px 12px;
      margin-bottom: 50px;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
 }
  .portfolio2 label.btn:hover {
      color: #fe0869;
@@ -1752,7 +1752,7 @@ header.header-area.nav-fixed2 {
      font-size: 15px;
      line-height: 25px;
      color: #c6c9d8;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      background-color: #fff0;
      background-clip: padding-box;
      border: 1px solid #464547;
@@ -1764,7 +1764,7 @@ header.header-area.nav-fixed2 {
      line-height: 25px;
      color: #c6c9d8;
      background-color: #fff0;
-     font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+      font-family: 'Cairo', sans-serif;
      background-clip: padding-box;
      border: 1px solid #464547;
      border-radius: 0;

@@ -63,15 +63,7 @@
 
 @endif 
 </h3>
-<p>
-         @if(session('lang')=='ar')
-        {{\Illuminate\Support\Str::limit($department->description, 75)}}
-                @endif
-                @if(session('lang')=='en')
-        {{\Illuminate\Support\Str::limit($department->keyword, 75)}}
-
-                @endif
-</p>
+ 
 
 <a href="{{url('/')}}/Services/{{$department->id}}"   >{{trans('admin.more')}}
 

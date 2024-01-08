@@ -29,6 +29,36 @@ $(document).ready(function(){
 });
 
 </script>
+
+
+ <script>
+
+                // Replace the <textarea id="editor1"> with a CKEditor
+
+                // instance, using default configuration.
+
+                CKEDITOR.replace( 'description' , {
+
+        language: '{{session('lang')}}',
+
+});
+
+                CKEDITOR.replace( 'keyword' , {
+
+        language: '{{session('lang')}}',
+
+});
+
+        
+
+                   
+  var keyword = $('.keyword').val();  
+          var description = $('.description').val(); 
+           var keyword = CKEDITOR.instances.keyword.getData();
+          var description = CKEDITOR.instances.description.getData();
+
+
+            </script>
 @endpush
 
 

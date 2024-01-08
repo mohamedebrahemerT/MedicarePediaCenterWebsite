@@ -87,6 +87,8 @@ Route::group(['middleware' => 'admin:admin'], function () {
     Route::resource('admin/cities', 'citiess');
     Route::resource('admin/states', 'statesss');
     Route::resource('admin/departments', 'DepartmentsController');
+     Route::get('admin/arrange', 'DepartmentsController@arrange');
+Route::post('admin/post-sortable','DepartmentsController@updatepost');
 
     Route::resource('admin/trademarks', 'TradeMarksController');
     Route::delete('admin/trademarks/destroy/all', 'TradeMarksController@multi_delete');

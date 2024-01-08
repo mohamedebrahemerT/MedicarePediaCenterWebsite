@@ -38,7 +38,7 @@
                 <!-- Post Content Column -->
               
 
-  <div class="col-lg-6">
+  <div class="col-lg-6" style="color: #000 !important ;text-align: right;font-weight: 700;">
 
     <h2  style="color:#000;text-align: center;" >
 
@@ -52,19 +52,19 @@
                         </h2>
                        @if(session('lang')=='ar')
       
-       <p class="lead" style="direction: rtl;"> 
+       <p class="lead" style="direction: rtl;color: #000"> 
                 @endif
 
                  @if(session('lang')=='en')
       
-       <p class="lead" style="text-align: right;" > 
+       <p class="lead" style="text-align: right;color: #000;" > 
                 @endif
 
                        @if(session('lang')=='ar')
-                {{$department->description}}
+                {!! $department->description !!}
                 @endif
                 @if(session('lang')=='en')
-                {{$department->keyword}}
+                {!! $department->keyword !!}
                 @endif
 
 </p>

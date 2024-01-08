@@ -15,6 +15,7 @@ class Department extends Model {
 		'keyword',
 		'parent',
 		'indecator',
+		'order'
 	];
 
 	public function parents() {

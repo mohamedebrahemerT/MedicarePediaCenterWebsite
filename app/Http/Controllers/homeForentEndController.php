@@ -46,7 +46,7 @@ public function productes()
 
 
         $departments = DB::table('departments')
-            ->whereNull('parent')->inRandomOrder()->take(6)->get();
+            ->whereNull('parent')->orderBy('order','ASC')->get();
 
 
         return view('forentend.home', compact('WhoWeAre', 'VisionMission', 'Objectives', 'departments', 'filess'));
@@ -79,7 +79,7 @@ public function productes()
 
 
         $departments = DB::table('departments')
-            ->whereNull('parent')->inRandomOrder()->take(6)->get();
+            ->whereNull('parent')->orderBy('order','ASC')->get();
 
 
         return view('forentend.home', compact('WhoWeAre', 'VisionMission', 'Objectives', 'departments', 'filess','newess'));
@@ -107,7 +107,7 @@ public function productes()
 
 
         $departments = DB::table('departments')
-            ->whereNull('parent')->inRandomOrder()->take(6)->get();
+            ->whereNull('parent')->get();
 
 
         return view('forentend.home', compact('WhoWeAre', 'VisionMission', 'Objectives', 'departments', 'filess'));
