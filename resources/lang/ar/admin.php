@@ -3170,7 +3170,7 @@ return [
    'page'=>'الصفحة ',
    'relatedproduct'=>'منتجات ذات  صله ',
    'product_info'=>'معلومات المنتج ',
-   'Consultant plastic and reconstructive surgery'=>'تشخيص وعلاج الاضطرابات النمائية والمشاكل السلوكية وصعوبات التعلم ',
+   'Consultant plastic and reconstructive surgery'=>' تشخيص وعلاج الاضطرابات النمائية والمشاكل السلوكية والنفسية للاطفال والمراهقين ',
    'wellcome'=>'مرحبا  ',
    'drkhaledsite'=>'  مركز ميدي كير لرعاية الطفل',
    'keep in touch'=>'ا بقى على تواصل  ',
