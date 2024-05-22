@@ -109,7 +109,17 @@
 </style>
 
 
-
+<style type="text/css">
+    p {
+  font-family: 'El Messiri',Helvetica,Arial,Lucida,sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: #000;
+  line-height: 28px;
+  text-align: right;
+}
+</style>
  
   
   

@@ -126,7 +126,7 @@
 <script type="text/javascript">
     (function () {
         var options = {
-            whatsapp: "+966550486165", // WhatsApp number
+            whatsapp: "+966552653228", // WhatsApp number
             call_to_action: " راسلنا علي  الواتس اب ", // Call to action
             button_color: "#FF6550", // Color of button
             position: "left", // Position may be 'right' or 'left'
