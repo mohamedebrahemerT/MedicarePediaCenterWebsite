@@ -9,19 +9,19 @@
          <h3>{{trans('admin.drkhaledsite')}}</h3>
 </a></div>
 
- <a href="{{settings()->TwitterLink}}">
+ <a href="https://x.com/medikidcare?lang=ar">
                         <img src="{{url('/')}}/forentend/icon/twitter.png" style="width:30px;height:30px">
                         
                     </a>
       
       
-                    <a href="{{settings()->instagramLink}}">
+                    <a href="https://www.instagram.com/medikidcare/">
                         <img src="{{url('/')}}/forentend/icon/instagram.png" style="width:30px;height:30px">
                         
                     </a>
              
                   
-                    <a href="{{settings()->facebookLink}}">
+                    <a href="https://www.facebook.com/medikidcare?mibextid=LQQJ4d">
                         <img src="{{url('/')}}/forentend/icon/facebook.png" style="background-color:#fff;border-radius:5px;width:30px;height:30px"  >
                     </a>
 </div>

@@ -101,19 +101,19 @@
 
                        
                              
-                    <a href="{{settings()->TwitterLink}}">
+                    <a href="https://x.com/medikidcare?lang=ars">
                         <img src="{{url('/')}}/forentend/icon/twitter.png" style="width:50px;height:50px">
                         
                     </a>
       
       
-                    <a href="{{settings()->instagramLink}}">
+                    <a href="https://www.instagram.com/medikidcare/">
                         <img src="{{url('/')}}/forentend/icon/instagram.png" style="width:50px;height:50px">
                         
                     </a>
              
                   
-                    <a href="{{settings()->facebookLink}}">
+                    <a href="https://www.facebook.com/medikidcare?mibextid=LQQJ4d">
                         <img src="{{url('/')}}/forentend/icon/facebook.png" style="background-color:#fff;border-radius:5px;width:50px;height:50px"  >
                     </a>
                 

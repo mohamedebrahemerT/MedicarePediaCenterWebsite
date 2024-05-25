@@ -31,7 +31,7 @@ class setting extends Controller
              'sitemeta' => ['required', 'string', 'max:255'],
              'language' => ['required', 'string', 'max:255'],
              'status' => ['required', 'string', 'max:255'],
-
+ 
              'facebookLink' => ['required', 'string', 'max:255'],
              'TwitterLink' => ['required', 'string', 'max:255'],
              'GmailLink' => ['required', 'string', 'max:255'],
